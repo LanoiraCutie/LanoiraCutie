@@ -1,4 +1,4 @@
-## its me, lanoira 👋
+## its me, lanoire 👋
 it is my personal github account for my projects and whatever i think. <br>
 i am cute, pls be my frenie >_<
 
