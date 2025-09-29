@@ -1,4 +1,6 @@
-## Hi there 👋
+## its me, lanoira 👋
+it is my personal github account for my projects and whatever i think.
+i am cute, pls be my frenie >_<
 
 <!--
 **LanoiraCutie/LanoiraCutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
